@@ -1,2 +1,2 @@
 # Initial-Repository
-Initial Repo
+Yay, my initial repo.
